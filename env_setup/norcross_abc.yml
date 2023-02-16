@@ -1,0 +1,16 @@
+name: norcross_abc
+channels:
+  - defaults
+dependencies:
+  - r-seurat
+  - r-irkernel
+  - ca-certificates
+  - openssl
+  - r-ggpubr
+  - r-svglite
+  - r-hgnchelper
+  - r-ggraph
+  - r-domc
+  - r-aricode
+  - r-matrix.utils
+prefix: /home/hratch/miniconda3/envs/norcross_abc
