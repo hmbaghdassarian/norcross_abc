@@ -1,5 +1,6 @@
 **/.ipynb_checkpoints/
 **/data/
+**/omnipathr-log/
 **/*.csv
 **/*.h5
-
+**/*.gmt
