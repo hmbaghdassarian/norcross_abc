@@ -26,6 +26,7 @@ dependencies:
   - r-ggrastr=1.0.1
   - pytorch=1.13.1
   - decoupler=2.4.0=r42hdfd78af_0
+  - conda-forge::r-textshape #=1.7.3=r42hc72bb7e_1
   - pip:
     - cell2cell==0.6.5
 prefix: /home/hratch/miniconda3/envs/norcross_abc
