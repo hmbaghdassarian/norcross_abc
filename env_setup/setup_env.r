@@ -40,4 +40,5 @@ remotes::install_github('satijalab/seurat-wrappers@d28512f804d5fe05e6d68900ca922
 # liana
 remotes::install_github('saezlab/liana@0167d373d428403940df27ffa389977b755eec8a', upgrade=F)
 
-# BiocManager::install("org.Mm.eg.db@")
+# destiny
+BiocManager::install("destiny", update = F)
