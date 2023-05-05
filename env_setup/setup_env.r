@@ -42,3 +42,5 @@ remotes::install_github('saezlab/liana@0167d373d428403940df27ffa389977b755eec8a'
 
 # destiny
 BiocManager::install("destiny", update = F)
+
+BiocManager::install("YuLab-SMU/clusterProfiler@127278cfa4e1bdf8ed99d96fe2a4c688377dcf41", update = FALSE)
