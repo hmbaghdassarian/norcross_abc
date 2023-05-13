@@ -44,3 +44,5 @@ remotes::install_github('saezlab/liana@0167d373d428403940df27ffa389977b755eec8a'
 BiocManager::install("destiny", update = F)
 
 BiocManager::install("YuLab-SMU/clusterProfiler@127278cfa4e1bdf8ed99d96fe2a4c688377dcf41", update = FALSE)
+BiocManager::install("cran/WGCNA@31f538c2f9d7d48f35f7098b4effe17331357d0d", update = FALSE)
+devtools::install_github('smorabit/hdWGCNA@28a1da79e0a2d896777d5b6bdb9f1a5231792df8', upgrade=F)
