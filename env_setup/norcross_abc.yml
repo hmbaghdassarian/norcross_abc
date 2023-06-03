@@ -27,7 +27,8 @@ dependencies:
   - pytorch=1.13.1
   - decoupler=2.4.0=r42hdfd78af_0
   - conda-forge::r-textshape #=1.7.3=r42hc72bb7e_1
-  - conda-forge::r-tester=0.1.7 #r42hc72bb7e_1003
+  - conda-forge::r-tester=0.1.7 #=r42hc72bb7e_1003
+  - conda-forge::r-desctools=0.99.49  #=r42hcf54a89_0
   - pip:
     - cell2cell==0.6.5
 prefix: /home/hratch/miniconda3/envs/norcross_abc
